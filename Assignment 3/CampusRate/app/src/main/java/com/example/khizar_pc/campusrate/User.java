@@ -3,21 +3,22 @@ package com.example.khizar_pc.campusrate;
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 
+//CREATING ENTITY
 @Entity
 public class User {
 
     @PrimaryKey(autoGenerate = true)
-    private String id;
+    private int id;
 
     private String name;
 
-    User(String id, String name)
+    User(int id, String name)
     {
         this.id = id;
         this.name = name;
     }
 
-    public String getId()
+    public int getId()
     {
         return id;
     }

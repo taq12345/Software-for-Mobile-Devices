@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NearbyActivity">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:background="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/settings1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings" />
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/nearby1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nearby" />
+
+        <android.support.design.widget.TabItem
+            android:id="@+id/me1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/me" />
+    </android.support.design.widget.TabLayout>
+
+    <TextView
+        android:id="@+id/nearby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:text="@string/nearby"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="163dp" />
+
+    <SearchView
+        android:layout_width="274dp"
+        android:layout_height="31dp"
+        android:layout_below="@+id/nearby"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp" />
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CampusRate</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+    <string name="nearby">Nearby</string>
+    <string name="rate">Rate</string>
+    <string name="name">Name</string>
+    <string name="userimage">UserImage</string>
+    <string name="submit">Submit</string>
+    <string name="humor">Humor</string>
+    <string name="attractiveness">Attractiveness</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="honesty">Honesty</string>
+    <string name="confidence">Confidence</string>
+    <string name="user_image">User Image</string>
+    <string name="overall_rating">Overall Rating</string>
+    <string name="user_to_rate">User To Rate</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="me">Me</string>
+    <string name="my_ratings">My Ratings</string>
+    <string name="change_dp">Change DP</string>
+    <string name="make_my_ratings_visible">Make My Ratings Visible</string>
+    <string name="display_age">Display Age</string>
+    <string name="rate_others_anonymously">Rate Others Anonymously</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+</resources>

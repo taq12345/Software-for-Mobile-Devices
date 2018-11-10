@@ -93,7 +93,7 @@ public class SettingsActivity extends AppCompatActivity {
     }
     public void openMain()
     {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, LoginActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 
         startActivity(intent);

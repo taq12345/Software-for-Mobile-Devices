@@ -1,4 +1,6 @@
 <resources>
+    <string name="facebook_app_id">722610491438109</string>
+    <string name="fb_login_protocol_scheme">fb722610491438109</string>
     <string name="app_name">CampusRate</string>
     <string name="login_with_facebook">Login With Facebook</string>
     <string name="nearby">Nearby</string>
@@ -27,4 +29,5 @@
     <string name="rate_others_anonymously">Rate Others Anonymously</string>
     <string name="logout">Logout</string>
     <string name="delete_account">Delete Account</string>
+
 </resources>

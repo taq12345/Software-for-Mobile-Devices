@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Assignment 2</string>
-    <string name="roll">15-4156</string>
-    <string name="rel">Relative Layout</string>
-    <string name="constr">Constraint Layout</string>
-</resources>

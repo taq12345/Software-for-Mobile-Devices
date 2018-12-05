@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/gradient_color"
     tools:context=".SettingsActivity">
 
     <android.support.design.widget.TabLayout
@@ -42,7 +43,7 @@
         android:layout_marginEnd="8dp"
         android:fontFamily="@font/alfa_slab_one"
         android:text="@string/settings"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/colorAccent"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -80,7 +81,8 @@
                 android:layout_height="wrap_content"
                 android:paddingTop="16dp"
                 android:text="@string/make_my_ratings_visible"
-                android:textColorLink="@color/colorPrimary"
+                android:textColor="@color/colorAccent"
+
                 android:textSize="18sp" />
 
             <Switch
@@ -89,7 +91,8 @@
                 android:layout_height="wrap_content"
                 android:paddingTop="16dp"
                 android:text="@string/display_age"
-                android:textColorLink="@color/colorPrimary"
+                android:textColor="@color/colorAccent"
+
                 android:textSize="18sp" />
 
             <Switch
@@ -98,7 +101,8 @@
                 android:layout_height="wrap_content"
                 android:paddingTop="16dp"
                 android:text="@string/rate_others_anonymously"
-                android:textColorLink="@color/colorPrimary"
+                android:textColor="@color/colorAccent"
+
                 android:textSize="18sp" />
 
             <Button

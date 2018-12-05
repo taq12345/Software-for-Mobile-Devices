@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225001049385",
+    "firebase_url": "https://campusrate5.firebaseio.com",
+    "project_id": "campusrate5",
+    "storage_bucket": "campusrate5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225001049385:android:5b836895385fbaad",
+        "android_client_info": {
+          "package_name": "com.example.khizar_pc.campusrate5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225001049385-l8aj2th5a2i36ngulos2d6rmu8q8r7rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khizar_pc.campusrate5",
+            "certificate_hash": "62a1537f6f9136dd595037d0c39507f60cc7c846"
+          }
+        },
+        {
+          "client_id": "225001049385-qv4b8kc7kghe397n44fjm1g7c2gn9let.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2haXibtD1at_8rVgRvjOHNBImxjatSDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225001049385-qv4b8kc7kghe397n44fjm1g7c2gn9let.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

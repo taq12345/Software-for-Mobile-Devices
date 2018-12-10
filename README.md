@@ -1,1 +1,0 @@
-# Software-for-Mobile-Devices

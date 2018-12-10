@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusRate</string>
+    <string name="action_settings">ترتیبات</string>
+    <string name="test_login">ٹیسٹ لاگ ان</string>
+    <string name="fb_login">فیس بک لاگ ان کریں</string>
+    <string name="history">ماضی</string>
+    <string name="user_name">نام</string>
+    <string name="attractiveness">خوبصورتی</string>
+    <string name="confidence">اعتماد</string>
+    <string name="honesty">ایمانداری</string>
+    <string name="humor">مزاح</string>
+    <string name="intelligence">عقل</string>
+    <string name="logout">لاگ آوٹ</string>
+    <string name="people">لوگ</string>
+    <string name="me">میں</string>
+    <string name="rate">ریٹ</string>
+    <string name="rate_anonymously">ریٹ خفیہ</string>
+</resources>

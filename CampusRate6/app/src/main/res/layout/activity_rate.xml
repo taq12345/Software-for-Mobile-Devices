@@ -25,7 +25,7 @@
             android:text="@string/user_name"
             android:textColor="@color/textColor"
             android:textSize="18sp"
-            android:textStyle="bold" />
+            android:textStyle="italic" />
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/user_pic"
@@ -179,9 +179,9 @@
             android:layout_height="match_parent"
             android:layout_gravity="center"
             android:layout_marginBottom="4dp"
-            android:background="@drawable/gradient_color2"
+            android:background="@drawable/roundbutton"
             android:text="@string/rate"
-            android:textColor="@drawable/gradient_color" />
+            android:textColor="@color/textColor" />
 
         <Switch
             android:id="@+id/anon"

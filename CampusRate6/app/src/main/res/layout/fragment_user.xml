@@ -25,7 +25,7 @@
             android:text="@string/user_name"
             android:textColor="@color/textColor"
             android:textSize="18sp"
-            android:textStyle="bold" />
+            android:textStyle="italic" />
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/dp"
@@ -172,7 +172,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginBottom="4dp"
-            android:background="@drawable/gradient_color2"
+            android:background="@drawable/roundbutton"
             android:text="@string/logout"
             android:textColor="@color/textColor" />
 

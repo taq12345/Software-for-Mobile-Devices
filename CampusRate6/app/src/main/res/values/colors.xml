@@ -6,4 +6,5 @@
     <color name="colorAccentDark">#de5946</color>
     <color name="colorAccentDarkest">#df3017</color>
     <color name="textColor">#92238b</color>
+    <color name="logoColor">#fd0a1f</color>
 </resources>

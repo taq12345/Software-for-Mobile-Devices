@@ -24,19 +24,19 @@
                 android:id="@+id/tabItem"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/history" />
+                android:icon="@mipmap/history" />
 
             <android.support.design.widget.TabItem
                 android:id="@+id/tabItem2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/people" />
+                android:icon="@mipmap/people" />
 
             <android.support.design.widget.TabItem
                 android:id="@+id/tabItem3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/me" />
+                android:icon="@mipmap/userme" />
 
         </android.support.design.widget.TabLayout>
     </android.support.design.widget.AppBarLayout>

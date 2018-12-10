@@ -30,4 +30,7 @@
     <string name="add_comment">Add Comment</string>
     <string name="user_count">User Count</string>
     <string name="average_rating">Average Rating</string>
+    <string name="welcome">Welcome To CampusRate</string>
+    <string name="distance">Km</string>
+    <string name="logo">CampusRate logo</string>
 </resources>

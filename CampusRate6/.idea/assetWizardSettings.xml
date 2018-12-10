@@ -18,10 +18,10 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="C:\Users\KHIZAR-PC\Desktop\starNew.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground" />
-                                      <entry key="outputName" value="dubash" />
+                                      <entry key="backgroundLayerName" value="backbLayer" />
+                                      <entry key="foregroundImage" value="C:\Users\KHIZAR-PC\Desktop\back.png" />
+                                      <entry key="foregroundLayerName" value="backfLayer" />
+                                      <entry key="outputName" value="back" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -33,9 +33,36 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
+                                      <entry key="cropped" value="true" />
                                       <entry key="iconShape" value="NONE" />
-                                      <entry key="imageAsset" value="C:\Users\KHIZAR-PC\Desktop\Anonymous.jpg" />
-                                      <entry key="outputName" value="anon" />
+                                      <entry key="imageAsset" value="C:\Users\KHIZAR-PC\Desktop\h5_icon_my_account_720730.png" />
+                                      <entry key="outputName" value="userme" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="notification">
+                              <value>
+                                <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="clipartAsset">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/communication/ic_message_black_24dp.xml" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="outputName" value="message" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -45,7 +72,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
+                            <entry key="outputIconType" value="NOTIFICATION" />
                           </map>
                         </option>
                       </PersistentState>
